@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Ground
+  - GM
+  - Sword
+  - Enemy
+  - EnemyWeapon
+  - PlayerWeapon
+  - Projectile
+  - Test
+  - UI
+  - Chest
+  - Box
+  - Bush
+  - Platform
+  - TheEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - TileBackground
+  - TileBackgroundDecorate
+  - Midground
+  - TileForeground
+  - Player
+  - TileForegroundDecorate
+  - Foreground
+  - Enemies
+  - Traps
+  - Collectables
+  - Debug
+  - Test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3071272367
+    locked: 0
+  - name: TileBackground
+    uniqueID: 1157668207
+    locked: 0
+  - name: TileBackgroundDecorate
+    uniqueID: 3389816059
+    locked: 0
+  - name: Midground
+    uniqueID: 319649523
+    locked: 0
+  - name: TileForeground
+    uniqueID: 1728628655
+    locked: 0
+  - name: Player
+    uniqueID: 2587706957
+    locked: 0
+  - name: Enemies
+    uniqueID: 3027984581
+    locked: 0
+  - name: TileForegroundDecorate
+    uniqueID: 256763831
+    locked: 0
+  - name: Foreground
+    uniqueID: 2664223677
+    locked: 0
+  - name: UI
+    uniqueID: 3562466199
+    locked: 0
